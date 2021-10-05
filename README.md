@@ -3,15 +3,15 @@
 Premier projet Web de L1 Info.
 
 # Auteurs:
-. Marc-Eli CROAIN
-. Gauthier Roussel
-. Antoine Caillaud
-
+. Marc-Eli CROAIN <br />
+. Gauthier Roussel <br />
+. Antoine Caillaud <br />
+ 
 # Technologies :
-. PHP
-. MySql
-. JMerise
-. HTML/CSS
+. PHP <br />
+. MySql <br />
+. JMerise <br />
+. HTML/CSS <br />
 
 # Descritption : 
 
